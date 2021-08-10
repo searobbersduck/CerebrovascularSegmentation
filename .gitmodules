@@ -1,0 +1,3 @@
+[submodule "external_lib/MedCommon"]
+	path = external_lib/MedCommon
+	url = https://github.com/searobbersduck/MedCommon.git
